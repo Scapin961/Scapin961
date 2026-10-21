@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Banner animado de Scapin em preto e verde, com o nome em letras ondulantes" />
+<img src="./assets/banner.gif" width="100%" alt="Painel de energia preto e verde: raios revelam o nome Scapin" />
 
 **Desenvolvedor Full Stack · Web & Mobile**
 
@@ -27,12 +27,7 @@ ecossistema: Vue.js
 ## 🟩 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=39D353" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=39D353" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-161B22?style=for-the-badge&logo=vuedotjs&logoColor=39D353" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=csharp&logoColor=39D353" alt="C sharp" />
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=39D353" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=39D353" alt="CSS3" />
+  <img src="./assets/tools-animated.gif" width="100%" alt="Ícones JavaScript amarelo, TypeScript azul, Vue.js verde, C sharp roxo, HTML5 laranja e CSS3 azul surgindo em sequência; cada nome fica junto do respectivo ícone" />
 </p>
 
 ## 🟩 Áreas de atuação
