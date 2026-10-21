@@ -75,7 +75,7 @@ def main():
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
 <title id="title">Atividade de Scapin no GitHub</title>
 <desc id="desc">Calendário de contribuições dos últimos doze meses, atualizado automaticamente.</desc>
-<style>text {{ font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #9da7b3; font-size: 11px; }} .caption {{ fill: #c9d1d9; font-size: 13px; font-weight: 600; }}</style>
+<style>text {{ font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #a6ffb4; font-size: 11px; }} .caption {{ fill: #39d353; font-size: 13px; font-weight: 600; }}</style>
 <text class="caption" x="8" y="16">Contribuições públicas no último ano</text>
 {''.join(month_labels)}
 {''.join(weekday_labels)}

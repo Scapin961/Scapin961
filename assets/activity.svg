@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 855 166" role="img" aria-labelledby="title desc">
 <title id="title">Atividade de Scapin no GitHub</title>
 <desc id="desc">Calendário de contribuições dos últimos doze meses, atualizado automaticamente.</desc>
-<style>text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #9da7b3; font-size: 11px; } .caption { fill: #c9d1d9; font-size: 13px; font-weight: 600; }</style>
+<style>text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; fill: #a6ffb4; font-size: 11px; } .caption { fill: #39d353; font-size: 13px; font-weight: 600; }</style>
 <text class="caption" x="8" y="16">Contribuições públicas no último ano</text>
 <text x="42" y="25">Oct</text><text x="72" y="25">Nov</text><text x="147" y="25">Dec</text><text x="207" y="25">Jan</text><text x="267" y="25">Feb</text><text x="327" y="25">Mar</text><text x="402" y="25">Apr</text><text x="462" y="25">May</text><text x="537" y="25">Jun</text><text x="597" y="25">Jul</text><text x="657" y="25">Aug</text><text x="732" y="25">Sep</text><text x="792" y="25">Oct</text>
 <text x="8" y="68">Mon</text><text x="8" y="98">Wed</text><text x="8" y="128">Fri</text>
