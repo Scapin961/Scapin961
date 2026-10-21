@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D4FF,50:7C3AED,100:00F5A0&text=SCAPIN&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20Web%20%26%20Mobile&descAlignY=60&descSize=18" width="100%" alt="Banner animado com ondas e o nome Scapin" />
+<img src="./assets/banner.gif" width="100%" alt="Banner animado de Scapin com ondas coloridas e nome em letras ondulantes" />
 
-<a href="https://github.com/Scapin961">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Construindo+experi%C3%AAncias+digitais;Do+frontend+ao+backend;Web+%26+aplicativos+mobile;Sempre+aprendendo+e+criando" alt="Texto animado: construindo experiências digitais" />
-</a>
-
-<br />
+**Desenvolvedor Full Stack · Web & Mobile**
 
 <img src="https://komarev.com/ghpvc/?username=Scapin961&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Contador de visitas ao perfil" />
 
@@ -61,11 +57,13 @@ ecossistema: Vue.js
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scapin961&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scapin961&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scapin961&bg_color=0D1117&color=00D4FF&line=7C3AED&point=00F5A0&area=true&area_color=7C3AED&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub" />
-
 </div>
+
+<p align="center">
+  <a href="https://github.com/Scapin961">
+    <img src="./assets/activity.svg" width="95%" alt="Calendário de contribuições públicas do último ano no GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -75,6 +73,8 @@ ecossistema: Vue.js
 
 <a href="https://github.com/Scapin961?tab=repositories">🚀 Explore meus repositórios</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00F5A0,50:7C3AED,100:00D4FF" width="100%" alt="Onda colorida animada no rodapé" />
+<br /><br />
+
+<img src="./assets/footer-wave.gif" width="100%" alt="Ondas coloridas animadas" />
 
 </div>
